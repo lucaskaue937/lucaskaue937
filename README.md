@@ -15,7 +15,7 @@
   <img align="center" alt="Lucas-UiPath" height="30" width="30" src="https://res.cloudinary.com/apideck/image/upload/v1554722614/catalog/uipath/icon128x128.png" />
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" -----src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">----
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/758827059329105950/935498387187458128/WhatsApp_Image_2022-01-25_at_08.33.16-removebg-preview.png">
 </div>
   
  ##
